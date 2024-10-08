@@ -1,0 +1,12 @@
+[project]
+name = "static"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "altair>=5.4.1",
+    "jupyter>=1.1.1",
+    "pandas>=2.2.3",
+    "vega-datasets>=0.9.0",
+]
