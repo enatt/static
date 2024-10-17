@@ -1,16 +1,15 @@
-# Understanding Violence: The Who, What, When, Where, Why of Hate Crimes Visualized
-
+# Understanding Violence: Visualizing the Who, What, When, Where, and Why of Hate Crimes
 Echo Nattinger
 
 ## What is your current goal? Has it changed since the proposal?
-My goal has remained the same since the proposal: providing visualizations that highlight information about the perpetrators and victims of hate crimes. I hope my combination of different types of visualizations allow citizens and policymakers alike to better understand, and thus prevent, targeted violence. 
-Since the proposal, I have focused less on the idea of using polling data as supplementary. I have not abandoned this idea completely, but it is not my priority at this time.
+My goal has remained the same since the proposal: providing visualizations that highlight information about the perpetrators and victims of hate crimes. I hope my combination of different types of visualizations allow viewers to better understand, and thus prevent, targeted violence. 
+Since the proposal, I have focused less on the idea of using supplementary polling data. I have not abandoned this idea completely, but it is not my priority at this time.
 
 ## Are there data challenges you are facing? Are you currently depending on mock data?
-I am using real data from the FBI, and am not depending on mock data currently. There are some quirks of the data that have proved challenging:
+I am using real data from the FBI. There are some quirks of the data that have proved difficult:
 1) "Crime bias" is recorded in an extremely granular way (over 300 distinct categories) that means doing aggregations with bias requires some pre-processing. My current plan is to focus only on the most "popular" biases, but I have considered ways to aggregate different categories together with some string parsing (I briefly discussed this with Prof. Turk in OH).
 2) The same issue as (1) exists with other categorical variables such as incident Location. I have taken the same approach so far.
-3) There are few quantitative variables in this dataset -- all relate to the number of victims and offenders in a given incident. I've built a scatterplot of this data, but there is not much else I can do on the comparing quantitative variables front. 
+3) There are few quantitative variables in this dataset -- all relate to the number of victims and offenders in a given incident. I've built a scatterplot with these columns, but other than that my comparisons will be between categorical variables.
 
 ## Describe each of the provided images with 2-3 sentences to give the context and how it relates to your goal.
 ### Image 1
@@ -37,7 +36,7 @@ This chloropleth map illustrates the prevalence of hate crimes across the United
 ### Image 5
 ![image](https://github.com/user-attachments/assets/283e4797-7fa8-4631-91bf-4c6c094e1fbb)
 
-This bar chart demonstrates the amount of total hate crime incidents grouped by offender race. We see that most hate crimes are committed by white individuals, but there is a lot of missing data ("Unknown" offender race). I want to use this graph to complement the previous bar chart that shows the most prevalent biases in hate crimes. 
+This bar chart demonstrates the amount of total hate crime incidents grouped by offender race. We see that most hate crimes are committed by white individuals, but there is a lot of missing data ("Unknown" offender race). I want to use this graph to complement the previous chart that shows the most prevalent biases -- we can compare characteristics about the perpetrators vs. victims of hate crimes. 
 
 ### Image 6
 ![image](https://github.com/user-attachments/assets/f18b4248-c39b-4c1e-a063-40cdd34d3f00)
