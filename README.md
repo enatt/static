@@ -2,9 +2,9 @@
 Echo Nattinger for CAPP 30239
 
 ## Project Description
-This project aims to provide the reader with a basic understanding of hate crimes in the United States. As marginalized communities face more targeted violence across the U.S., it's imperative that we understand  this violence so we might prevent i. A series of visualizations provide information on the **who**, **what**, **when**, **where**, and **why** of hate crimes. Specifically, my data analysis reveals that hate crimes are mostly perpetrated by white individuals, occur around Halloween season, and take place in personal residences more than any other location. 
+This project aims to provide the reader with a basic understanding of hate crimes in the United States. As marginalized communities face more targeted violence across the U.S., it's imperative that we understand  this violence so we might prevent it. A series of visualizations provide information on the **who**, **what**, **when**, **where**, and **why** of hate crimes. Specifically, my data analysis reveals that hate crimes are largely perpetrated by unknown offenders, occur around Halloween season, and take place in personal residences more than any other location. 
 
-More importantly, hate crimes spike around certain notable sociopolitical events. Events like 9/11, George Floyd's murder, and pride month are all associated with increased hate crimes towards marginalized groups. It is thus more important than ever that both politicians and citizens alike work to combat prejudice, injustice, and hateful speech.
+More importantly, hate crimes spike around certain notable sociopolitical events. Events like 9/11, George Floyd's murder, and pride month are all associated with increased hate crimes towards marginalized groups. It is thus more important than ever that both politicians and citizens alike work to combat prejudice, injustice, and hateful speech. When we're aware of the driving reasons behind hate crimes, we can do more to prevent violence and keep our communities safe. 
 
 ## Poster
 ![FULL_1](https://github.com/user-attachments/assets/50de2acf-b195-4e90-af5d-4e099509cf27)
